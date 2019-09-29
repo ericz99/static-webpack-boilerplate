@@ -1,5 +1,7 @@
 ## Static webpack boilerplate
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) ![devDependencies Status](https://david-dm.org/dwyl/hapi-auth-jwt2/dev-status.svg)
+
 A lightweight boilerplate for your next webpack based frontend project. Enjoy!
 
 ### Installation
