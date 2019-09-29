@@ -27,6 +27,10 @@ yarn run build
 # Make it your own repo
 rm -rf .git && git init
 
+# Installing in a new directory of your choice
+
+git clone https://github.com/ericz99/static-webpack-boilerplate.git <your folder>
+
 ```
 
 ### Features
